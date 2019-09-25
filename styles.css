@@ -1,0 +1,59 @@
+body {
+    color: white;
+    background-color: #333;
+    font-size: 150%;
+    font-family: NeutraText;
+    font-style: normal;;
+}
+p {
+    display: block;
+   text-align: left;
+}
+.trip-image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    height: 500px;
+}
+.tall{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 450px;
+    height: 700px;
+}
+div{
+border-color: darkolivegreen;
+border-style: double;
+border-width: 10px;
+}
+
+.banner{
+    width:1054; height:450;
+    margin:auto;
+}
+
+li {
+  text-align:center;
+  list-style-type: none;
+  color:steelblue;
+}
+#open{
+    padding: 40;
+    display: block;
+    text-align: center;
+}
+section div{
+
+}
+a:link{
+    color:steelblue;
+}
+a:visited{
+color:rgb(3, 79, 99)
+}
+figcaption{
+    text-align: center;
+    padding:30;
+}
